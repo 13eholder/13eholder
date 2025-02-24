@@ -11,7 +11,7 @@ Welcome to my Github page! I am a senior CS student from china,and will continue
 ### :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day
 - Optimizing the BlueStore component of Ceph
-- Completing the Outlast Trilogy
+- Challenge BloodBorne
 
 
 ### :computer: Github Stat: 
