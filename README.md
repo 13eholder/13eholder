@@ -4,19 +4,28 @@
 Welcome to my Github page! I am a senior CS student from china,and will continue my master's studies at Hust PDSL Lab.
 
 ### 🌱 Things I am currently working on: 
-- Learning Storage and Distributed System systematically 
-- Studying the economic theory of the liberal school
-- Improving badminton skills
+- Distributed Storage System
+- CPU-Bypass Things
+- Performance optimization
+- Integrate Storage with CXL/GPU
 
 ### :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day
-- Optimizing the BlueStore component of Ceph
-- Challenge BloodBorne
-
+- Writing a nano distributed filesystem with stoa
+- Exploring potential of LLM Agent
 
 ### :computer: Github Stat: 
-<p>
-	<img width="50%" src="https://github-readme-stats.vercel.app/api?username=13eholder&show_icons=true&hide_border=true" />
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=13eholder&show_icons=true&theme=github_dark&hide_border=true" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=13eholder&layout=compact&theme=github_dark&hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=13eholder&theme=github-dark&hide_border=true" />
 </p>
 
 
