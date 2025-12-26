@@ -15,7 +15,8 @@ Welcome to my Github page! I am a senior CS student from china,and will continue
 - Exploring potential of LLM Agent
 
 ### :computer: Github Stat: 
-![13eholder's GitHub stats](https://github-readme-stats.vercel.app/api?username=13eholder)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=13eholder)
+[![13eholder's GitHub stats](https://github-readme-stats.vercel.app/api?username=13eholder&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=13eholder&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
