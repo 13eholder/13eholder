@@ -6,7 +6,7 @@ Learn more about me in my [Blog](https://13eholder.github.io/)
 
 ### 🌱 Things I am currently working on: 
 - Distributed Storage System
-- CPU-Bypass Things
+- Linux IO/FS subsystem
 - Performance optimization
 - Integrate Storage with CXL/GPU
 
